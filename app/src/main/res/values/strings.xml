@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="virtual_try_on_app">app_name</string>
+    <string name="sample_page_button">Sample</string>
+    <string name="gallery_page_button">Gallery</string>
+</resources>
